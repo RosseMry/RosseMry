@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Angular
 
 
 <h3>Things I code with</h3>
