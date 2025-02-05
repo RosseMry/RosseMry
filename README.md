@@ -15,5 +15,5 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
  </p>
 
-[![RosseMary's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosseMry&show_icons=true&theme=tokyonight)](https://github.com/RosseMry/github-readme-stats)]
+[![RosseMary's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosseMry&show_icons=true&theme=tokyonight)](https://github.com/RosseMry/github-readme-stats)
 
