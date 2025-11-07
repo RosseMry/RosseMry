@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Rosse Mary 👋
 
 💻 I'm a software and data enthusiast currently studying at **42**.  
-I love building efficient solutions, understanding how systems work under the hood, and turning data into meaningful insights.  
-Right now, I’m expanding my skills in **Power BI**, **SQL**, and **data visualization**, while strengthening my foundation in **C** and **C++**.
 
 ---
 
@@ -73,7 +71,7 @@ A miniature shell inspired by Bash. It handles command parsing, process manageme
 ---
 
 ### 📫 How to Reach Me
-[💼 LinkedIn](#) | ✉️ [Email](#)
+[💼 LinkedIn](#) | ✉️ [Email](#) 
 🎓 **42 Student**  
 🌍 Based in France | Open to remote projects  
 
