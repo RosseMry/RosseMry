@@ -56,17 +56,8 @@ Actualmente estoy reforzando mis habilidades en **Power BI**, **SQL**, **Excel**
 - Modelado de datos en Power BI  
 - DAX y medidas avanzadas  
 - Consultas SQL para análisis  
-- Visual storytelling con dashboards  
 
----
 
-### 📈 Mis estadísticas
-[![RosseMary's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosseMry&show_icons=true&theme=tokyonight)](https://github.com/RosseMry/github-readme-stats)
-
----
-
-### 🌐 Conectemos
-[💼 LinkedIn](#) | ✉️ [Email](#)
 
 # Hi, I'm Rosse 👋  
 
@@ -82,10 +73,10 @@ C | C++ | Python | Shell | Power BI | SQL | HTML | CSS | JavaScript | Git | GitH
 ---
 
 ### 🌱 Currently Learning
-- Data modeling and DAX in Power BI 📊  
-- SQL for analytics and business intelligence  
-- Linux system administration and networking basics  
-- Advanced C concepts and multithreading  
+- Data modeling and DAX in Power BI 📊
+- Visual storytelling con dashboards 
+- Linux system administration
+- Advanced C
 
 ---
 
@@ -125,9 +116,17 @@ Definitely one of my favorite projects so far 💫
 
 ---
 
-### 🧰 Tools I Use
-Git | GitHub | Linux | Visual Studio Code | Power BI | Excel  
-
+<h3> 🧰 Things I code with</h3>
+<p>
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ </p>
+ 
 ---
 
 ### 📊 GitHub Stats
@@ -136,10 +135,10 @@ Git | GitHub | Linux | Visual Studio Code | Power BI | Excel
 ---
 
 ### 📫 How to Reach Me
-📧 **rossemary.mg@example.com**  
+[💼 LinkedIn](#) | ✉️ [Email](#)
 🎓 **42 Student**  
 🌍 Based in France | Open to remote projects  
 
 ---
 
-⭐️ *Inspired by the 42 community and adapted by Rosse*
+⭐️ *by Rosse*
