@@ -67,3 +67,79 @@ Actualmente estoy reforzando mis habilidades en **Power BI**, **SQL**, **Excel**
 
 ### 🌐 Conectemos
 [💼 LinkedIn](#) | ✉️ [Email](#)
+
+# Hi, I'm Rosse 👋  
+
+💻 I'm a software and data enthusiast currently studying at **42**.  
+I love building efficient solutions, understanding how systems work under the hood, and turning data into meaningful insights.  
+Right now, I’m expanding my skills in **Power BI**, **SQL**, and **data visualization**, while strengthening my foundation in **C** and **C++**.
+
+---
+
+### 🚀 Skills & Tools
+C | C++ | Python | Shell | Power BI | SQL | HTML | CSS | JavaScript | Git | GitHub | Linux | VS Code  
+
+---
+
+### 🌱 Currently Learning
+- Data modeling and DAX in Power BI 📊  
+- SQL for analytics and business intelligence  
+- Linux system administration and networking basics  
+- Advanced C concepts and multithreading  
+
+---
+
+### 💡 42 School Projects
+🔹 **Libft**  
+Language: C  
+A custom library that re-implements standard C functions like `strlen`, `calloc`, and `strlcpy`. Helped me understand memory management and the fundamentals of C.
+
+🔹 **ft_printf**  
+Language: C  
+My own version of the `printf` function. It was a great challenge to handle format specifiers, flags, and precision while maintaining flexibility.
+
+🔹 **get_next_line**  
+Language: C  
+A function that reads a line from a file descriptor. I learned about dynamic memory allocation and buffer management for efficient reading.
+
+🔹 **Born2beroot**  
+Language: Shell / Virtualization  
+A system administration project where I configured a virtual machine, managed users, and implemented security policies — my first deep dive into Linux systems.
+
+🔹 **Pipex**  
+Language: C  
+A program that replicates the behavior of shell pipes (`|`). I learned about process creation, I/O redirection, and inter-process communication using pipes.
+
+🔹 **Push_swap**  
+Language: C  
+An algorithmic project that sorts a stack of integers using the fewest moves possible. It strengthened my understanding of sorting and optimization algorithms.
+
+🔹 **Philosophers**  
+Language: C  
+Based on the "Dining Philosophers" problem. I dealt with threads, mutexes, and concurrency challenges — my introduction to synchronization and multithreading.
+
+🔹 **Minishell**  
+Language: C  
+A miniature shell inspired by Bash. It handles command parsing, process management, and built-in commands like `cd`, `echo`, and `export`.  
+Definitely one of my favorite projects so far 💫
+
+---
+
+### 🧰 Tools I Use
+Git | GitHub | Linux | Visual Studio Code | Power BI | Excel  
+
+---
+
+### 📊 GitHub Stats
+[![RosseMary's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosseMry&show_icons=true&theme=tokyonight)](https://github.com/RosseMry/github-readme-stats)
+
+---
+
+### 📫 How to Reach Me
+📧 **rossemary.mg@example.com**  
+🎓 **42 Student**  
+🌍 Based in France | Open to remote projects  
+
+---
+
+⭐️ *Inspired by the 42 community and adapted by Rosse*
