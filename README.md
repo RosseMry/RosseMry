@@ -1,4 +1,4 @@
-### Hi there, I'm Rosse Mary 👋
+### Hi there, I'm Rosse 👋
 
 💻 I'm a software and data enthusiast currently studying at **42**.  
 
@@ -77,4 +77,4 @@ A miniature shell inspired by Bash. It handles command parsing, process manageme
 
 ---
 
-⭐️ *by Rosse*
+⭐️ *From Rosse*
