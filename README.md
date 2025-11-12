@@ -1,10 +1,10 @@
-## Hi there, I'm Rosse 👋
+# Hi there, I'm Rosse 👋
 
 💻 I'm a software and data enthusiast currently studying at **42**.  
 
 ---
 
-## 🚀 Skills & Tools
+# 🚀 Skills & Tools
 C | C++ | Python | Shell | Power BI | SQL | HTML | CSS | JavaScript | Git | GitHub | Linux | VS Code  
 
 ---
