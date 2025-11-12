@@ -1,15 +1,15 @@
-### Hi there, I'm Rosse 👋
+## Hi there, I'm Rosse 👋
 
 💻 I'm a software and data enthusiast currently studying at **42**.  
 
 ---
 
-### 🚀 Skills & Tools
+## 🚀 Skills & Tools
 C | C++ | Python | Shell | Power BI | SQL | HTML | CSS | JavaScript | Git | GitHub | Linux | VS Code  
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 - Data modeling and DAX in Power BI 📊
 - Visual storytelling con dashboards 
 - Linux system administration
@@ -17,7 +17,7 @@ C | C++ | Python | Shell | Power BI | SQL | HTML | CSS | JavaScript | Git | GitH
 
 ---
 
-### 💡 42 School Projects
+## 💡 42 School Projects
 🔹 **Libft**  
 Language: C  
 A custom library that re-implements standard C functions like `strlen`, `calloc`, and `strlcpy`. Helped me understand memory management and the fundamentals of C.
@@ -65,12 +65,12 @@ A miniature shell inspired by Bash. It handles command parsing, process manageme
  
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 [![RosseMary's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosseMry&show_icons=true&theme=tokyonight)](https://github.com/RosseMry/github-readme-stats)
 
 ---
 
-### 📫 How to Reach Me
+## 📫 How to Reach Me
 [💼 LinkedIn](#) | ✉️ [Email](#) 
 🎓 **42 Student**  
 🌍 Based in France | Open to remote projects  
