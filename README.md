@@ -69,6 +69,7 @@ A miniature shell inspired by Bash. It handles command parsing, process manageme
 ![RosseMary's GitHub stats](https://github-readme-stats.vercel.app/api?username=RosseMry&show_icons=true&theme=tokyonight)
 
 
+
 ---
 
 ## 📫 How to Reach Me
