@@ -2,20 +2,16 @@
 
 💻 I'm a software and data enthusiast currently studying at **42**.  
 
----
 
 # 🚀 Skills & Tools
 C | C++ | Python | Shell | Power BI | SQL | HTML | CSS | JavaScript | Git | GitHub | Linux | VS Code  
 
----
 
 ## 🌱 Currently Learning
 - Data modeling and DAX in Power BI 📊
 - Visual storytelling con dashboards 
 - Linux system administration
 - Advanced C
-
----
 
 ## 💡 42 School Projects
 🔹 **Libft**  
@@ -50,7 +46,6 @@ Based on the "Dining Philosophers" problem. I dealt with threads, mutexes, and c
 Language: C  
 A miniature shell inspired by Bash. It handles command parsing, process management, and built-in commands like `cd`, `echo`, and `export`.  
 
----
 
 <h3> 🧰 Things I code with</h3>
 <p>
@@ -63,19 +58,16 @@ A miniature shell inspired by Bash. It handles command parsing, process manageme
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
  </p>
  
----
 
 ## 📊 GitHub Stats
 ![RosseMary's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RosseMry&theme=tokyonight)
 
 
----
 
 ## 📫 How to Reach Me
 [💼 LinkedIn](#) | ✉️ [Email](#) 
 🎓 **42 Student**  
 🌍 Based in France | Open to remote projects  
 
----
 
 ⭐️ *From Rosse*
