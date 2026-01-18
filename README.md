@@ -1,6 +1,7 @@
 # Hi there, I'm Rosse 👋
 
 
+
 💻 I'm a software and data enthusiast currently studying at **42**.  
 
 
