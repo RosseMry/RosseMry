@@ -20,33 +20,6 @@ C | C++ | Python | Shell | Power BI | SQL | HTML | CSS | JavaScript | Git | GitH
 Language: C  
 A custom library that re-implements standard C functions like `strlen`, `calloc`, and `strlcpy`. Helped me understand memory management and the fundamentals of C.
 
-🔹 **ft_printf**  
-Language: C  
-My own version of the `printf` function. It was a great challenge to handle format specifiers, flags, and precision while maintaining flexibility.
-
-🔹 **get_next_line**  
-Language: C  
-A function that reads a line from a file descriptor. I learned about dynamic memory allocation and buffer management for efficient reading.
-
-🔹 **Born2beroot**  
-Language: Shell / Virtualization  
-A system administration project where I configured a virtual machine, managed users, and implemented security policies — my first deep dive into Linux systems.
-
-🔹 **Pipex**  
-Language: C  
-A program that replicates the behavior of shell pipes (`|`). I learned about process creation, I/O redirection, and inter-process communication using pipes.
-
-🔹 **Push_swap**  
-Language: C  
-An algorithmic project that sorts a stack of integers using the fewest moves possible. It strengthened my understanding of sorting and optimization algorithms.
-
-🔹 **Philosophers**  
-Language: C  
-Based on the "Dining Philosophers" problem. I dealt with threads, mutexes, and concurrency challenges — my introduction to synchronization and multithreading.
-
-🔹 **Minishell**  
-Language: C  
-A miniature shell inspired by Bash. It handles command parsing, process management, and built-in commands like `cd`, `echo`, and `export`.  
 
 
 <h3> 🧰 Things I code with</h3>
@@ -90,7 +63,7 @@ A miniature shell inspired by Bash. It handles command parsing, process manageme
 
 ## 👨‍💻 About me
 
-Hello, I'm Joaninnn — a Frontend Developer focused on building clean, scalable, and modern web applications.  
+Hello, I'm Rosse — a Frontend Developer focused on building clean, scalable, and modern web applications.  
 I value structure, performance, and long-term maintainability over hype.
 
 - 🚀 Frontend Developer  
@@ -117,22 +90,22 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 
 ### Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaninnn&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosseMry&layout=compact&theme=tokyonight" />
 </p>
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joaninnn&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RosseMry&show_icons=true&theme=tokyonight" />
 </p>
 
 ### Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joaninnn&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosseMry&theme=tokyonight" />
 </p>
 
 ### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joaninnn&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RosseMry&theme=tokyo-night" />
 </p>
 
 ---
@@ -146,13 +119,11 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 
 ## 👀 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joaninnn&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=RosseMry&color=blue" />
 </p>
 
 ---
 
 <p align="center">
-⭐️ From Joaninnn with ❤️
+⭐️ *From Rosse with * ❤️
 </p>
-
-⭐️ *From Rosse*
