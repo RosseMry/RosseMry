@@ -1,14 +1,13 @@
 <!-- Welcome animation -->
-<h1 align="center">Hi 👋, I'm Rosse</h1>
-<h3 align="center">Data Analyst</h3>
+<p align="center">
+  <img src="./banner.gif" alt="Banner" />
+</p>
 
 ---
-
-<h2 align="center"> Connect with me </h2>
+<h3 align="center"> Connect with me </h2>
 
 <p align="center">
-  <a href="https://t.me/yourtelegram">Telegram</a> •
-  <a href="https://wa.me/yourwhatsapp">WhatsApp</a> •
+  <a href="https://wa.me/yourwhatsapp"> About me </a> •
   <a href="https://www.linkedin.com/in/rossemarcas/">LinkedIn</a>
 </p>
 
@@ -17,10 +16,9 @@
 ## 👨‍💻 About me
 
 <p align="center">
-Hello, I'm Rosse — a Frontend Developer focused on building clean, scalable, and modern web applications.  
-I value structure, performance, and long-term maintainability over hype.
+Hello, I'm Rosse — a Data Analyst Jr 
 
-- 🚀 Frontend Developer  
+- 🚀 Data Analyst
 - ⚛️ React / Next.js / TypeScript  
 - 🎨 Modern UI & clean architecture  
 - 🤝 Strong GitHub collaboration mindset  
@@ -30,10 +28,8 @@ I value structure, performance, and long-term maintainability over hype.
 ## 🛠️ Technologies
 
 ### Core Technologies
-`HTML5` `CSS3` `JavaScript` `Sass` `TypeScript` `Git` `GitHub`
+`HTML5` `Python` `Sass` `TypeScript` `Git` `GitHub`
 
-### Frameworks & Libraries
-`React` `Next.js` `Vite` `Redux` `RTK Query` `Zustand`
 
 ### Team Collaboration
 Experienced in team development using GitHub, pull requests, code reviews, and structured workflows.
@@ -44,36 +40,29 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 
 ### Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosseMry&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosseMry&layout=compact&title_color=E683D9&text_color=0480EF&icon_color=0480EF&bg_color=ffffff00&hide_border=true" />
 </p>
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RosseMry&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RosseMry&show_icons=true&title_color=E683D9&text_color=75EEB2&icon_color=0480EF&bg_color=ffffff00&hide_border=true" />
 </p>
 
 ### Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosseMry&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosseMry&theme=cobalt&hide_border=true" />
 </p>
 
 ### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RosseMry&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RosseMry&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 💬 Random Dev Quote
+### Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RosseMry&color=blue" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true" />
 </p>
 
 ---
