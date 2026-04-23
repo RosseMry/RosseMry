@@ -1,50 +1,3 @@
-# Hi there, I'm Rosse 👋
-
-
-
-💻 I'm a software and data enthusiast currently studying at **42**.  
-
-
-# 🚀 Skills & Tools
-C | C++ | Python | Shell | Power BI | SQL | HTML | CSS | JavaScript | Git | GitHub | Linux | VS Code  
-
-
-## 🌱 Currently Learning
-- Data modeling and DAX in Power BI 📊
-- Visual storytelling con dashboards 
-- Linux system administration
-- Advanced C
-
-## 💡 42 School Projects
-🔹 **Libft**  
-Language: C  
-A custom library that re-implements standard C functions like `strlen`, `calloc`, and `strlcpy`. Helped me understand memory management and the fundamentals of C.
-
-
-
-<h3> 🧰 Things I code with</h3>
-<p>
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
- </p>
- 
-
-## 📊 GitHub Stats
-![RosseMary's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RosseMry&theme=tokyonight)
-
-
-
-## 📫 How to Reach Me
-[💼 LinkedIn](#) | ✉️ [Email](#) 
-🎓 **42 Student**  
-🌍 Based in France | Open to remote projects  
-
-
 <!-- Welcome animation -->
 <h1 align="center">Hi 👋, I'm Joaninnn</h1>
 <h3 align="center">Frontend Developer | React / Next.js / TypeScript</h3>
@@ -56,13 +9,14 @@ A custom library that re-implements standard C functions like `strlen`, `calloc`
 <p align="center">
   <a href="https://t.me/yourtelegram">Telegram</a> •
   <a href="https://wa.me/yourwhatsapp">WhatsApp</a> •
-  <a href="https://linkedin.com/in/yourlinkedin">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rossemarcas/">LinkedIn</a>
 </p>
 
 ---
 
 ## 👨‍💻 About me
 
+<p align="center">
 Hello, I'm Rosse — a Frontend Developer focused on building clean, scalable, and modern web applications.  
 I value structure, performance, and long-term maintainability over hype.
 
@@ -70,7 +24,7 @@ I value structure, performance, and long-term maintainability over hype.
 - ⚛️ React / Next.js / TypeScript  
 - 🎨 Modern UI & clean architecture  
 - 🤝 Strong GitHub collaboration mindset  
-
+</p>
 ---
 
 ## 🛠️ Technologies
