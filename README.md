@@ -38,13 +38,9 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 
 ## 📊 Statistics
 
-### Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosseMry&layout=compact&title_color=E683D9&text_color=0480EF&icon_color=0480EF&bg_color=ffffff00&hide_border=true" />
-</p>
 
-### GitHub Stats
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RosseMry&show_icons=true&title_color=E683D9&text_color=75EEB2&icon_color=0480EF&bg_color=ffffff00&hide_border=true" />
 </p>
 
