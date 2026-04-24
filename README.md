@@ -37,7 +37,7 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 ---
 
 <h3 align="center"> Statistics </h3>
-
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosseMry&layout=compact&title_color=E683D9&text_color=0480EF&icon_color=0480EF&bg_color=ffffff00&hide_border=true" />
