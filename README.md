@@ -1,6 +1,6 @@
 <!-- Welcome animation -->
 <p align="center">
-  <img src="./banner.gif" alt="banner" />
+  <img src="" alt="banner" />
 </p>
 
 ---
