@@ -36,7 +36,8 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
 
 ---
 
-## 📊 Statistics
+<h3 align="center"> Statistics </h3>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosseMry&layout=compact&title_color=E683D9&text_color=0480EF&icon_color=0480EF&bg_color=ffffff00&hide_border=true" />
@@ -44,22 +45,17 @@ Experienced in team development using GitHub, pull requests, code reviews, and s
   <img src="https://github-readme-stats.vercel.app/api?username=RosseMry&show_icons=true&title_color=E683D9&text_color=75EEB2&icon_color=0480EF&bg_color=ffffff00&hide_border=true" />
 </p>
 
-### Contribution Streak
+<h3 align="center"> Contribution Streak </h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RosseMry&theme=cobalt&hide_border=true" />
 </p>
 
-### Contribution Graph
+<h3 align="center"> Contribution Graph </h3>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RosseMry&theme=react-dark&hide_border=true" />
 </p>
 
----
-
-### Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide_border=true" />
-</p>
 
 ---
 
