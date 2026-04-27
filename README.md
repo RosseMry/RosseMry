@@ -7,33 +7,36 @@
 <h3 align="center"> Connect with me </h2>
 
 <p align="center">
-  <a href="https://wa.me/yourwhatsapp"> About me </a> •
+  <a href="https://rossemry.github.io"> About me </a> •
   <a href="https://www.linkedin.com/in/rossemarcas/">LinkedIn</a>
 </p>
 
 ---
 
-## 👨‍💻 About me
+## 👩‍💻 About me
 
 <p align="center">
 Hello, I'm Rosse — a Data Analyst Jr 
 
-- 🚀 Data Analyst
-- ⚛️ React / Next.js / TypeScript  
-- 🎨 Modern UI & clean architecture  
-- 🤝 Strong GitHub collaboration mindset  
+- 📊 Data Analyst · Business Intelligence · Dashboard Development
+- 🐍 Python · SQL · Power BI
+- 🎨 Passionate about lifestyle industries
+- 🔍 Turning raw data into actionable insights
+- 🌱 Looking for a team where data drives real decisions
 </p>
 ---
 
 ## 🛠️ Technologies
 
-### Core Technologies
-`HTML5` `Python` `Sass` `TypeScript` `Git` `GitHub`
+### Core Stack
+`Python` `SQL` `Power BI` `Excel` `Git` `GitHub`
+
+ ### Also working with
+`HTML5` `TypeScript` `React` `Sass`
 
 
 ### Team Collaboration
 Experienced in team development using GitHub, pull requests, code reviews, and structured workflows.
-
 ---
 
 <h3 align="center"> Statistics </h3>
