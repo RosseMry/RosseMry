@@ -36,9 +36,9 @@ Hello, I'm Rosse — a Data Analyst Jr
 
 
 ### Team Collaboration
-Experienced in team development using GitHub, pull requests, code reviews, and structured workflows.
----
+<p> Experienced in team development using GitHub, pull requests, code reviews, and structured workflows. </p>
 
+---
 <h3 align="center"> Statistics </h3>
 ---
 
