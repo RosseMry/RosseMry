@@ -3,7 +3,6 @@
   <img src="./banner.gif" alt="banner" />
 </p>
 
----
 <h3 align="center"> 👩‍💻 About me </h2>
 
 <p align="center">
@@ -17,11 +16,6 @@ Hello, I'm Rosse — a Data Analyst Jr
 </p>
 ---
 
-
-### Team Collaboration
-<p> Experienced in team development using GitHub, pull requests, code reviews, and structured workflows. </p>
-
----
 <h3 align="center"> Statistics </h3>
 ---
 
