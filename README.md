@@ -15,9 +15,9 @@ Hello, I'm Rosse — a Data Analyst Jr
 - 🌱 Looking for a team where data drives real decisions
 </p>
 
+---
 
 <h3 align="center"> Statistics </h3>
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosseMry&layout=compact&title_color=E683D9&text_color=0480EF&icon_color=0480EF&bg_color=ffffff00&hide_border=true" />
@@ -36,8 +36,8 @@ Hello, I'm Rosse — a Data Analyst Jr
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RosseMry&theme=react-dark&hide_border=true" />
 </p>
 
---> 
 
 <p align="center">
  *From Rosse *
-</p> 
+</p> --> 
+
