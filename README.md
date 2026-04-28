@@ -4,16 +4,7 @@
 </p>
 
 ---
-<h3 align="center"> Connect with me </h2>
-
-<p align="center">
-  <a href="https://rossemry.github.io"> About me </a> •
-  <a href="https://www.linkedin.com/in/rossemarcas/">LinkedIn</a>
-</p>
-
----
-
-## 👩‍💻 About me
+<h3 align="center"> 👩‍💻 About me </h2>
 
 <p align="center">
 Hello, I'm Rosse — a Data Analyst Jr 
@@ -25,14 +16,6 @@ Hello, I'm Rosse — a Data Analyst Jr
 - 🌱 Looking for a team where data drives real decisions
 </p>
 ---
-
-## 🛠️ Technologies
-
-### Core Stack
-`Python` `SQL` `Power BI` `Excel` `Git` `GitHub`
-
- ### Also working with
-`HTML5` `TypeScript` `React` `Sass`
 
 
 ### Team Collaboration
