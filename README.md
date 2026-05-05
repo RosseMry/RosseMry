@@ -41,5 +41,5 @@ Hello, I'm Rosse — a Data Analyst Jr
 
 <p align="center">
  *From Rosse *
-</p> --> 
+</p> 
 
