@@ -10,7 +10,6 @@ Hello, I'm Rosse — a Data Analyst Jr
 
 - 📊 Data Analyst · Business Intelligence · Dashboard Development
 - 🐍 Python · SQL · Power BI
-- 🎨 Passionate about lifestyle industries
 - 🔍 Turning raw data into actionable insights
 - 🌱 Looking for a team where data drives real decisions
 </p>
