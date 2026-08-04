@@ -6,12 +6,12 @@
 <h3 align="center"> 👩‍💻 About me </h2>
 
 <p align="center">
-Hello, I'm Rosse — a Data Analyst Jr 
+Hello, I'm Rosse — an aspiring Data Scientist.
 
-- 📊 Data Analyst · Business Intelligence · Dashboard Development
-- 🐍 Python · SQL · Power BI
-- 🔍 Turning raw data into actionable insights
-- 🌱 Looking for a team where data drives real decisions
+-🐍 Python · SQL · Machine Learning
+-📊 Data Analytics · Data Visualization
+-🌱 Currently studying at 42 Paris and continuously learning Data Science and Machine Learning.
+
 </p>
 
 ---
