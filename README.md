@@ -8,9 +8,9 @@
 <p align="center">
 Hello, I'm Rosse — an aspiring Data Scientist.
 
--🐍 Python · SQL · Machine Learning
--📊 Data Analytics · Data Visualization
--🌱 Currently studying at 42 Paris and continuously learning Data Science and Machine Learning.
+-  🐍 Python · SQL · Machine Learning
+- 📊 Data Analytics · Data Visualization
+- 🌱 Currently studying at 42 Paris and continuously learning Data Science and Machine Learning.
 
 </p>
 
